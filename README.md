@@ -55,7 +55,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![cry exp14](https://github.com/user-attachments/assets/6997663d-c3da-4710-92b7-d8a7ece47215)
+![image](https://github.com/user-attachments/assets/850c47bf-fe14-4b2e-9cff-c8ddcf840d4f)
+
 
 
 ## RESULT:
